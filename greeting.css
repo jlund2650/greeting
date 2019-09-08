@@ -1,0 +1,86 @@
+body, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+body { 
+    background: -webkit-linear-gradient(right, #ff33cc, #000066); 
+    background: linear-gradient(to right, #ff33cc, #000066);
+
+}
+
+.container {
+    text-align: center;
+}
+.about {
+    
+    text-align: center;
+    color: #a7adba;
+}
+.abouttitle{
+    font-size: 40px;
+    color: #a7adba;
+}
+#home {
+    background-color: #000000;
+    width: 70%;
+    height: 400px;
+    border-radius: 5px;
+    margin: auto; 
+}
+
+img {
+    display: block;
+    padding-top: 40px; 
+    margin: auto;
+    max-width: 800px;
+    max-height: 600px;
+    width: auto;
+    height: auto;
+}
+body {
+	font-family: Courier;
+	background-color: #4f5b66;
+	color: #FEFBD8;
+
+}
+nav {
+    padding: 25px;
+    background-color: #000000;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+}
+
+h2 {
+	text-align: center;
+}
+h1 {
+    font-size: 500%;
+    padding: 50px 10px 50px; 
+    text-align: center;
+}
+p {
+    font-size: 150%;
+}
+footer {
+    padding: 50px;
+    text-align: center;
+    color: #a7adba;
+}
+.menu {
+    opacity: 1;
+    color: #b20eb4;
+    font-size: 20px;
+}
+.menu:hover{
+    opacity: .5;
+
+}
+.header{
+    color:#a7adba; 
+    text-decoration: none;
+}
+.headd{
+    text-decoration: none;
+    color: #a7adba;
+}
+
